@@ -1,5 +1,5 @@
 ###################
-Starter Pack
+<h3>Starter Pack</h3>
 ###################
 1. Helper 
 2. Data tables
@@ -11,7 +11,7 @@ Starter Pack
 8. form js
 
 ####################
-.htaccess
+<h3>.htaccess</h3>
 ####################
 <IfModule mod_rewrite.c><br>
   RewriteEngine On<br>
