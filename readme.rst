@@ -9,6 +9,7 @@
 6. JS 
 7. datepicker
 8. form js
+9. ckeditor
 
 ####################
 <h3>.htaccess</h3>
