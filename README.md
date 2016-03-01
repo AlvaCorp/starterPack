@@ -13,10 +13,10 @@ Starter Pack
 ####################
 .htaccess
 ####################
-<IfModule mod_rewrite.c>
-  RewriteEngine On
-  RewriteBase /nama_project
-  RewriteCond %{REQUEST_FILENAME} !-f
-  RewriteCond %{REQUEST_FILENAME} !-d
-  RewriteRule ^(.*)$ index.php?/$1 [L]
+<IfModule mod_rewrite.c><br>
+  RewriteEngine On<br>
+  RewriteBase /nama_project<br>
+  RewriteCond %{REQUEST_FILENAME} !-f<br>
+  RewriteCond %{REQUEST_FILENAME} !-d<br>
+  RewriteRule ^(.*)$ index.php?/$1 [L]<br>
 </IfModule>
